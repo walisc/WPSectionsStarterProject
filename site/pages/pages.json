@@ -1,0 +1,11 @@
+{
+  "pages_editable": [], // none
+  "menu_config": {
+    "home":
+    {
+      "submenu": {}, //recursive properties
+      "title": "Home",
+      "type": "page" // link, anchor
+    }
+  }
+}

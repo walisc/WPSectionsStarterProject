@@ -1,0 +1,22 @@
+{
+    "name": "batana_software/wp_sections_starter_project",
+    "description": "WPSections - for rapidly creating WordPress Sites",
+    "keywords": ["WordPress", "composer", "library"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chido Warambwa",
+            "email": "chido@batanasoftware.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"batana_software/wp_sections": "@dev"
+    },    
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../WPSections"
+        }
+    ]
+}
